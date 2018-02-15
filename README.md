@@ -3,8 +3,7 @@ Server and Client classes implementing RFC 868 in python
 
 # Usage server
 
-	&gt;&gt;&gt; from rfc_868 import Server
-	>>>
+	>>>from rfc_868 import Server
 	>>> server = Server
 	Listening on port 37
   
