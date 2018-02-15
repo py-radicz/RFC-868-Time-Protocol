@@ -44,5 +44,3 @@ class Client:
         
         self.sock.close()
         print("Received time: {}".format(data.decode()))
-
-Client(time_server=('localhost', 37))
